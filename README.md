@@ -47,4 +47,4 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
 
     python3 -m main.py
 
-## Video Demo Kontainer
+## Video Demo Kontainer Docker
