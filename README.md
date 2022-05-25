@@ -11,17 +11,17 @@
 | Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
 | Fikri Damar Muchtarom      | 120140077 | [fikdum](https://github.com/fikdum)                   |
 
-## Morphling
+## Game Morphling
 #### Deskripsi Project
 Aplikasi ini merupakan permainan yang dibuat menggunakan library Pygame tentang dua ekor dinosaurus bernama Gojo (Dinosaurus Hijau) dan Pterodactyl (Burung Dinosaurus). Tujuan dari permainan ini adalah mendapatkan score sebanyak-banyaknya dengan cara menghindari rintangan. Untuk memulai permainan, user dapat memilih salah satu karakter di atas dan setiap karakter mempunyai stage dan rintangan yang berbeda. Pada pemilihan karakter Gojo (Dinosaurus Hijau), karakter tersebut harus menghindari rintangan berupa Batu, Love Bird, Pohon dengan cara melompat dan menunduk agar tidak mati (Game Over). Kemudian, seiring berjalannya score, karakter Gojo ini akan berevolusi menjadi lebih besar dari ukuran semula. Kemudian ketika menyentuh score tertentu karakter Gojo akan kembali ke bentuk awal. Permainan akan berakhir apabila karakter menabrak rintangan.
 Selanjutnya, pada pemilihan karakter Pterodactyl (Burung Dinosaurus), karakter tersebut harus menghindari rintangan berupa Pipa yang terbentuk secara vertikal pada bagian atas dan bawah. Karakter tersebut harus melewati celah di antara kedua pipa yang terbentuk dengan melakukan lompatan. Permainan akan berakhir apabila karakter menabrak rintangan.
 
 ## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
-Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads seperti pada gambar berikut:
+Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
 
 ![1](https://github.com/riecho14/Docker-Dendam-Si-Tikus/blob/a2eb90dc3131332f08d6dcbeefd0014c4d22d89b/1.png)
 
-Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
+Kemudian, buka terminal Linux pada direktori folder Downloads lalu ketikkan perintah build seperti berikut:
 
     make build-dendamsitikus
 
@@ -29,17 +29,17 @@ lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan c
 
     docker images
 
-Jika proses build telah selesai, jalankan perintah run seperti berikut:
+Apabila proses build telah dilakukan sampai selesai, maka selanjutnya ialah ketikkan perintah run pada terminal Linux yang dapat dilihat sebaga berikut:
 
-untuk Windows
+pada Sistem Operasi Windows
 
     make run-windows
 
-untuk Linux
+pada Sistem Operasi Linux
 
     make run-linux
 
-untuk Mac
+pada Sistem Operasi Mac
 
     make run-mac
 
