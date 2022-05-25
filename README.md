@@ -1,6 +1,6 @@
 <img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg" width="400">
 
-> Containerize Pygame with Docker.
+> Running Pygame pada Kontainer Docker (Virtual Box Linux Ubuntu 20.04 LTS).
 ## Nama dan NIM Anggota Kelompok
 | Nama | NIM | Github |
 | :---: | :---: | :---: |
