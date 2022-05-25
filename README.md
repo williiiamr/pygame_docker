@@ -1,4 +1,5 @@
 <img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg" width="400">
+<img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg(https://user-images.githubusercontent.com/64588557/170309865-fdb2030e-b5c6-4845-9cd5-1e5aa4b772d0.png)" width="400">
 
 > Running Pygame in Docker Container (Virtual Box Linux Ubuntu 20.04 LTS).
 ## Nama dan NIM Anggota Kelompok
