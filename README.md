@@ -1,6 +1,6 @@
 <img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg" width="400">
 
-> Running Pygame pada Kontainer Docker (Virtual Box Linux Ubuntu 20.04 LTS).
+> Running Pygame in Docker Container (Virtual Box Linux Ubuntu 20.04 LTS).
 ## Nama dan NIM Anggota Kelompok
 | Nama | NIM | Github |
 | :---: | :---: | :---: |
@@ -11,11 +11,12 @@
 | Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
 | Fikri Damar Muchtarom      | 120140077 | [fikdum](https://github.com/fikdum)                   |
 
-## Dendam Si Tikus
-#### Deskripsi Projek
-Aplikasi ini merupakan permainan yang dibuat menggunakan library pygame tentang seekor tikus yang berusaha mengalahkan kucing dengan cara menyerang para kucing menggunakan racun. Permainan ini bertujuan untuk mendapatkan score sebanyak-banyaknya dengan cara menghindari dan mengalahkan para kucing yang berdatangan, nyawa tikus akan berkurang saat kucing menyentuh tikus. Permainan ini akan berakhir jika nyawa tikus telah habis.
+## Morphling
+#### Deskripsi Project
+Aplikasi ini merupakan permainan yang dibuat menggunakan library Pygame tentang dua ekor dinosaurus bernama Gojo (Dinosaurus Hijau) dan Pterodactyl (Burung Dinosaurus). Tujuan dari permainan ini adalah mendapatkan score sebanyak-banyaknya dengan cara menghindari rintangan. Untuk memulai permainan, user dapat memilih salah satu karakter di atas dan setiap karakter mempunyai stage dan rintangan yang berbeda. Pada pemilihan karakter Gojo (Dinosaurus Hijau), karakter tersebut harus menghindari rintangan berupa Batu, Love Bird, Pohon dengan cara melompat dan menunduk agar tidak mati (Game Over). Kemudian, seiring berjalannya score karakter Gojo ini akan berevolusi menjadi lebih besar dari ukuran semula, kemudian ketika menyentuh score tertentu karakter Gojo akan kembali ke bentuk awal.
+Selanjutnya, pada pemilihan ka
 
-## Cara Menjalankan Kontainer
+## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
 Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads seperti pada gambar berikut:
 
 ![1](https://github.com/riecho14/Docker-Dendam-Si-Tikus/blob/a2eb90dc3131332f08d6dcbeefd0014c4d22d89b/1.png)
