@@ -11,11 +11,13 @@
 | Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
 | Fikri Damar Muchtarom      | 120140077 | [fikdum](https://github.com/fikdum)                   |
 
-## Dendam Si Tikus
+## Morphling
 #### Deskripsi Projek
+Pada project ini akan menjalankan game Morphling dengan memanfaatkan container docker. Game morphling dibuat menggunakan bahasa pemrograman Python dengan memanfaatkan library Pygame dan Random. Morhling memiliki dua buah karakter yang pertama ialah Dino dan yang kedua ialah Ptero. Pada karakter Dino dimainkan dengan melompati obstacle batu dan pepohonan serta menunduk jiak ada obstacle burung 
+
 Aplikasi ini merupakan permainan yang dibuat menggunakan library pygame tentang seekor tikus yang berusaha mengalahkan kucing dengan cara menyerang para kucing menggunakan racun. Permainan ini bertujuan untuk mendapatkan score sebanyak-banyaknya dengan cara menghindari dan mengalahkan para kucing yang berdatangan, nyawa tikus akan berkurang saat kucing menyentuh tikus. Permainan ini akan berakhir jika nyawa tikus telah habis.
 
-## Cara Menjalankan Kontainer
+## Cara Menjalankan Morphling di Kontainer Docker
 Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads seperti pada gambar berikut:
 
 ![1](https://github.com/riecho14/Docker-Dendam-Si-Tikus/blob/a2eb90dc3131332f08d6dcbeefd0014c4d22d89b/1.png)
