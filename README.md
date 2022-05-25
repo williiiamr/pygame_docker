@@ -1,4 +1,4 @@
-<img alt="logo" src="https://raw.githubusercontent.com/riecho14/Docker-Dendam-Si-Tikus/image_assets/logo.svg" width="400">
+<img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg" width="400">
 
 > Containerize Pygame with Docker.
 ## Nama dan NIM Anggota Kelompok
