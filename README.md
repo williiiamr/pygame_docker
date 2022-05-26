@@ -4,7 +4,7 @@
  <p align="center">Docker 2 - Hands on!</p>
 </p>
 <p align="center">
-    <a href="nama-dan-nim-anggota-kelompok">Anggota Kelompok</a>
+    <a href="https://github.com/ShorterOyster/pygame_docker#nama-dan-nim-anggota-kelompok">Anggota Kelompok</a>
     .
     <a href="https://github.com/ShorterOyster/pygame_docker#game-morphling">Judul Program</a>
     .
