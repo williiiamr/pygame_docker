@@ -1,5 +1,20 @@
-<img alt="logo" src="https://user-images.githubusercontent.com/64588557/170301940-98e2a429-ec8a-4f14-b2b3-6d1b9b85fe02.jpg" width="400">
-<img alt="logo" src="https://user-images.githubusercontent.com/64588557/170309865-fdb2030e-b5c6-4845-9cd5-1e5aa4b772d0.png" width="400">
+<p align="center">
+   <img alt="Desain tanpa judul" src="https://user-images.githubusercontent.com/100473334/170390599-40f61a1f-a398-4385-be5d-6cd09dd942d2.png" width="300">
+<h2 align="center">Hai 👋, Kami dari Tim Rebah.an Tech</h2>
+ <p align="center">Docker 2 - Hands on!</p>
+</p>
+<p align="center">
+    <a href="nama-dan-nim-anggota-kelompok">Anggota Kelompok</a>
+    .
+    <a href="https://github.com/ShorterOyster/pygame_docker#game-morphling">Judul Program</a>
+    .
+    <a href="https://github.com/ShorterOyster/pygame_docker#deskripsi-project">Deskripsi Program</a>
+    .
+    <a href="https://github.com/ShorterOyster/pygame_docker#langkah-langkah-menjalankan-kontainer-docker-pada-linux-ubuntu-2004-lts">Menjalankan Kontainer</a>
+    .
+    <a href="https://github.com/ShorterOyster/pygame_docker#video-demo-kontainer-docker">Lihat Demo</a>   
+</p> 
+
 
 > Running Pygame in Docker Container (Virtual Box Linux Ubuntu 20.04 LTS).
 ## Nama dan NIM Anggota Kelompok
@@ -13,9 +28,12 @@
 | Fikri Damar Muchtarom      | 120140077 | [fikdum](https://github.com/fikdum)                   |
 
 ## Game Morphling
+
 #### Deskripsi Project
+<p align="justify">
 Aplikasi ini merupakan permainan yang dibuat menggunakan library Pygame tentang dua ekor dinosaurus bernama Gojo (Dinosaurus Hijau) dan Pterodactyl (Burung Dinosaurus). Tujuan dari permainan ini adalah mendapatkan score sebanyak-banyaknya dengan cara menghindari rintangan. Untuk memulai permainan, user dapat memilih salah satu karakter di atas dan setiap karakter mempunyai stage dan rintangan yang berbeda. Pada pemilihan karakter Gojo (Dinosaurus Hijau), karakter tersebut harus menghindari rintangan berupa Batu, Love Bird, dan Pohon yang ditampilkan secara random dengan cara melompat dan menunduk agar tidak mati dengan cepat (Game Over). Kemudian, seiring berjalannya score, karakter Gojo ini akan berevolusi menjadi lebih besar dari ukuran semula dan ketika menyentuh score tertentu karakter Gojo akan kembali ke bentuk awal. Permainan akan berakhir apabila karakter menabrak rintangan.
 Selanjutnya, pada pemilihan karakter Pterodactyl (Burung Dinosaurus), karakter tersebut harus menghindari rintangan berupa Pipa yang terbentuk secara vertikal pada bagian atas dan bawah. Karakter tersebut harus melewati celah di antara kedua pipa yang terbentuk dengan melakukan gerak terbang. Permainan akan berakhir apabila karakter menabrak rintangan (Game Over).
+</p>    
 
 ## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
 Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
