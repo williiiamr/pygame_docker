@@ -64,6 +64,6 @@ pada Sistem Operasi Mac
 
 Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat dengan perintah seperti berikut:
 
-    python3 -m Morphling.py
+    python3 -m Morphling
 
 ## Video Demo Kontainer Docker
