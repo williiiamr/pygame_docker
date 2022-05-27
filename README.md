@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Desain tanpa judul" src="https://user-images.githubusercontent.com/100473334/170390599-40f61a1f-a398-4385-be5d-6cd09dd942d2.png" width="300">
+   <img alt="Desain tanpa judul" src="https://user-images.githubusercontent.com/100473334/170390599-40f61a1f-a398-4385-be5d-6cd09dd942d2.png" width="350">
 <h2 align="center">Hai 👋, Kami dari Tim Rebah.an Tech</h2>
  <p align="center">Docker 2 - Hands on!</p>
 </p>
@@ -21,11 +21,11 @@
 
 | Nama | NIM | Github |
 | :---: | :---: | :---: |
-| William Rusli              | 120140090 | [ShorterOyster](https://github.com/ShorterOyster)           |
-| Rahman Pajri               | 120140118 | [rahmanfajri](https://github.com/rahmanfajri)           |
-| Ahmad Fadillah             | 120140092 | [AhmadFadillah12](https://github.com/AhmadFadillah12)     |
-| Alfian Kafilah Ba'its      | 120140109 | [alfiannnas](https://github.com/alfiannnas)                 |
-| Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
+| William Rusli              | 120140090 | [ShorterOyster](https://github.com/ShorterOyster)     |
+| Rahman Pajri               | 120140118 | [rahmanfajri](https://github.com/rahmanfajri)         |
+| Ahmad Fadillah             | 120140092 | [AhmadFadillah12](https://github.com/AhmadFadillah12) |
+| Alfian Kafilah Ba'its      | 120140109 | [alfiannnas](https://github.com/alfiannnas)           |
+| Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)           |
 | M Fikri Damar Muchtarom    | 120140077 | [fikdum](https://github.com/fikdum)                   |
    
 </div>
@@ -57,7 +57,7 @@ Kemudian, ketikkan perintah build seperti berikut:
 
     docker images
 
-Apabila proses build telah dilakukan sampai selesai, maka selanjutnya kita dapat melakukan proses running dengan ketentuan sebagai berikut :
+Apabila proses build telah dilakukan sampai selesai, maka selanjutnya kita dapat melakukan proses running dengan ketentuan sebagai berikut:
 
 >pada Sistem Operasi Windows
 
