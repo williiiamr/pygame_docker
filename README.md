@@ -48,7 +48,7 @@ Kemudian, ketikkan perintah build seperti berikut:
 
     make build morphling-pygame
 
- Setelah itu pastikan ada images "morphling" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
+ Setelah itu pastikan ada images "morphling-pygame" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
     docker images
 
