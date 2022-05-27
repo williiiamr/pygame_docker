@@ -55,15 +55,15 @@ Kemudian, ketikkan perintah build seperti berikut:
 
 Apabila proses build telah dilakukan sampai selesai, maka selanjutnya kita dapat melakukan proses running dengan ketentuan sebagai berikut :
 
-pada Sistem Operasi Windows
+>pada Sistem Operasi Windows
 
     make run-windows
 
-pada Sistem Operasi Linux
+>pada Sistem Operasi Linux
 
     make run-linux
 
-pada Sistem Operasi Mac
+>pada Sistem Operasi Mac
 
     make run-mac
 
