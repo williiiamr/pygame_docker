@@ -17,6 +17,8 @@
 
 
 ## Nama dan NIM Anggota Kelompok
+<div align="center">
+
 | Nama | NIM | Github |
 | :---: | :---: | :---: |
 | William Rusli              | 120140090 | [ShorterOyster](https://github.com/ShorterOyster)           |
@@ -25,6 +27,8 @@
 | Alfian Kafilah Ba'its      | 120140109 | [alfiannnas](https://github.com/alfiannnas)                 |
 | Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
 | M Fikri Damar Muchtarom    | 120140077 | [fikdum](https://github.com/fikdum)                   |
+   
+</div>
 
 ## Game Morphling
 
