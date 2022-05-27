@@ -44,7 +44,7 @@ Kemudian, buka terminal Linux pada direktori folder Downloads lalu ketikkan peri
 
     make build-Morphling
 
-lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
+lalu pastikan ada repositori "pygame_docker" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
     docker images
 
@@ -64,6 +64,6 @@ pada Sistem Operasi Mac
 
 Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat dengan perintah seperti berikut:
 
-    python3 -m main.py
+    python3 -m Morphling.py
 
 ## Video Demo Kontainer Docker
