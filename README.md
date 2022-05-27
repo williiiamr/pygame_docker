@@ -40,7 +40,11 @@ Clone repositori ini atau [unduh disini](https://github.com/ShorterOyster/pygame
 
 ![1](https://user-images.githubusercontent.com/71332803/170678057-792bb55d-bb2b-4085-802c-324206b74077.png)
 
-Kemudian, buka terminal Linux pada direktori folder Downloads lalu ketikkan perintah build seperti berikut:
+Selanjutnya, buka terminal Linux pada direktori folder Downloads dengan ketikkan perintah cd seperti berikut:
+
+    cd Downloads
+
+Kemudian, ketikkan perintah build seperti berikut:
 
     make build-Morphling
 
