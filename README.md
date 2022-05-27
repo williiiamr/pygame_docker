@@ -16,7 +16,6 @@
 </p> 
 
 
-> Running Pygame in Docker Container (Virtual Box Linux Ubuntu 20.04 LTS).
 ## Nama dan NIM Anggota Kelompok
 | Nama | NIM | Github |
 | :---: | :---: | :---: |
@@ -36,7 +35,8 @@ Selanjutnya, pada pemilihan karakter Pterodactyl (Burung Dinosaurus), karakter t
 </p>    
 
 ## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
-Clone repositori ini atau [unduh disini](https://github.com/ShorterOyster/pygame_docker/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
+> Membangun dan Menjalankan Aplikasi GUI (Pygame) dengan menggunakan Docker Container pada (Virtual Box Linux Ubuntu 20.04 LTS).
+Lakukan clone pada repositori ini atau [klik ini](https://github.com/ShorterOyster/pygame_docker/archive/refs/heads/main.zip). Setelah file di download, ekstrak seluruh isinya dan pindahkan ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
 
 ![1](https://user-images.githubusercontent.com/71332803/170678057-792bb55d-bb2b-4085-802c-324206b74077.png)
 
@@ -71,6 +71,6 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
     python3 -m Morphling
 
 ## Video Demo Kontainer Docker
-Klik gambar di bawah ini untuk melihat demo mengenai kontainer Docker
+Klik gambar di bawah ini untuk melihat demo mengenai cara penggunaan kontainer Docker pada Aplikasi GUI (Pygame)
 
 [![Watch This Video](http://img.youtube.com/vi/uL6J4bAxkqw/0.jpg)](https://youtu.be/uL6J4bAxkqw)
