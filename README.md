@@ -46,13 +46,13 @@ Selanjutnya, buka terminal Linux pada direktori folder Downloads dengan ketikkan
 
 Kemudian, ketikkan perintah build seperti berikut:
 
-    make build-Morphling
+    make build morphling-pygame
 
-lalu pastikan ada repositori "pygame_docker" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
+ lalu pastikan ada images "Morphling" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
     docker images
 
-Apabila proses build telah dilakukan sampai selesai, maka selanjutnya ialah ketikkan perintah run pada terminal Linux yang dapat dilihat sebaga berikut:
+Apabila proses build telah dilakukan sampai selesai, maka selanjutnya kita dapat melakukan proses running dengan ketentuan sebagai berikut :
 
 pada Sistem Operasi Windows
 
@@ -71,3 +71,5 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
     python3 -m Morphling
 
 ## Video Demo Kontainer Docker
+Klik gambar di bawah ini untuk melihat demo mengenai kontainer Docker
+[![Watch the video](https://img.youtube.com/vi/uL6J4bAxkqw/maxresdefault.jpg)](https://youtu.be/uL6J4bAxkqw)
