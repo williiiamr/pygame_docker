@@ -38,7 +38,7 @@ Selanjutnya, pada pemilihan karakter Pterodactyl (Burung Dinosaurus), karakter t
 ## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
 Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dendam-Si-Tikus/archive/refs/heads/main.zip) lalu pindahkan pygame scripts ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
 
-![1](https://github.com/riecho14/Docker-Dendam-Si-Tikus/blob/a2eb90dc3131332f08d6dcbeefd0014c4d22d89b/1.png)
+![1](https://user-images.githubusercontent.com/71332803/170678057-792bb55d-bb2b-4085-802c-324206b74077.png)
 
 Kemudian, buka terminal Linux pada direktori folder Downloads lalu ketikkan perintah build seperti berikut:
 
