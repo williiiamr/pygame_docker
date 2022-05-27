@@ -42,7 +42,7 @@ Clone repositori ini atau [unduh disini](https://github.com/ShorterOyster/pygame
 
 Kemudian, buka terminal Linux pada direktori folder Downloads lalu ketikkan perintah build seperti berikut:
 
-    make build-dendamsitikus
+    make build-Morphling
 
 lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
