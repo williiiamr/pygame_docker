@@ -25,7 +25,7 @@
 | Ahmad Fadillah             | 120140092 | [AhmadFadillah12](https://github.com/AhmadFadillah12)     |
 | Alfian Kafilah Ba'its      | 120140109 | [alfiannnas](https://github.com/alfiannnas)                 |
 | Anisa Prasetya             | 120140087 | [anisaprsty](https://github.com/anisaprsty)                   |
-| Fikri Damar Muchtarom      | 120140077 | [fikdum](https://github.com/fikdum)                   |
+| M Fikri Damar Muchtarom    | 120140077 | [fikdum](https://github.com/fikdum)                   |
 
 ## Game Morphling
 
