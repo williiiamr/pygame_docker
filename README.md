@@ -36,6 +36,7 @@ Selanjutnya, pada pemilihan karakter Pterodactyl (Burung Dinosaurus), karakter t
 
 ## Langkah-Langkah Menjalankan Kontainer Docker pada Linux Ubuntu 20.04 LTS
 > Membangun dan Menjalankan Aplikasi GUI (Pygame) dengan menggunakan Docker Container pada (Virtual Box Linux Ubuntu 20.04 LTS).
+
 Lakukan clone pada repositori ini atau [klik ini](https://github.com/ShorterOyster/pygame_docker/archive/refs/heads/main.zip). Setelah file di download, ekstrak seluruh isinya dan pindahkan ke folder ~/Downloads yang dapat dilihat pada gambar sebagai berikut:
 
 ![1](https://user-images.githubusercontent.com/71332803/170678057-792bb55d-bb2b-4085-802c-324206b74077.png)
