@@ -72,4 +72,5 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
 
 ## Video Demo Kontainer Docker
 Klik gambar di bawah ini untuk melihat demo mengenai kontainer Docker
-[![Watch the video](https://img.youtube.com/vi/uL6J4bAxkqw/maxresdefault.jpg)](https://youtu.be/uL6J4bAxkqw)
+
+[![Watch This Video](http://img.youtube.com/vi/uL6J4bAxkqw/0.jpg)](https://youtu.be/uL6J4bAxkqw)
