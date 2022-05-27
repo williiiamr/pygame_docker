@@ -1,9 +1,10 @@
 FROM ubuntu:20.04
 
-LABEL maintainer="Humberto Dias"
-LABEL version="1.0"
+LABEL maintainer="Rebahan.Tech"
 
 ENV DEBIAN_FRONTEND=noninteractive
+
+#untuk melakukan pembaruan dan instalasi utilitas
 RUN apt update && apt upgrade -y && apt install -y \
     tzdata \
     libssl-dev \
@@ -31,22 +32,23 @@ RUN apt update && apt upgrade -y && apt install -y \
     libsdl2-gfx-dev \
     libsdl2-net-dev
 
-# For x11
+# install x11 digunakan untuk menampilkan window gui dan mengatur i/o device
 RUN apt install -qqy x11-apps
 
-# Pygame
+# install modul pygame
 RUN pip3 install pygame
 
+# mengatur user, serta UID dan GID agar user sama seperti pengguna sistem di mesin host
 ARG USER=docker
 ARG UID=1000
 ARG GID=1000
-# default password for user
+# mengatur password default untuk user
 ARG PW=docker
 
-# Option1: Using unencrypted password/ specifying password
+# menambahkan kata sandi yang sudah diatur diatas
 RUN useradd -m ${USER} --uid=${UID} --shell /bin/bash && echo "${USER}:${PW}" | chpasswd \
 && adduser docker sudo
 
-# Setup default user, when enter docker container
+# menyiapkan user default, ketika memasuki kontainer docker
 USER ${UID}:${GID}
 WORKDIR /home/${USER}
